@@ -1,3 +1,4 @@
+# 2024 photo download and labeling worked great
 import os
 from PIL import Image, ImageDraw, ImageFont
 from datetime import datetime
